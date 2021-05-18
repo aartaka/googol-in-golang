@@ -1,0 +1,6 @@
+#+TITLE:Googol in Golang
+
+Googol is 10 to the power of 100. This is a huge number. More so,
+it's one that is interesting to get to when you practice new
+programming language. This is my way to learn Go, one feature at a
+time, with the task always staying the same -- get Googol in the end!
