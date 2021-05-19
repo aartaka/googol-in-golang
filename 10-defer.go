@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is one multiplied (with deferral) by ten 100 times.
+ *
+ * Primary takeaways:
  *
  * - defer is fun, but not obvious.
  * - defer is ran only after return statement, so it I did

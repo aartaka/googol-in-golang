@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is 1 multiplied by 10 until it's Googol.
+ *
+ * Primary takeaways:
  *
  * - for loop with one argument is while loop. Is it convenient?
  * - Iteration seems to be the shortest way of problem-solving in Go.

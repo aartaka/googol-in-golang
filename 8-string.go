@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is a string with one 1 and one hundred 0s.
+ *
+ * Primary takeaways:
  *
  * - String are immutable.
  * - String concatenation is simply a + between two strings.

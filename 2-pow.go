@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is 10^100.
+ *
+ * Primary takeaways:
  *
  * - Go has math library.
  * - Pow is quite conventional -- math.Pow(base, power).

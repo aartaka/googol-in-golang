@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is 1 recursively multiplied by 10 (until it's Googol).
+ *
+ * Primary takeaways:
  *
  * - Recursion can go as deep as 100 frames in Go.
  * - But stack is not endless. Here's the error message I got when

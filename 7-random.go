@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol (approx.) is random numbers multiplied until big enough.
+ *
+ * Primary takeaways:
  *
  * - Random numbers are deterministic in Go (this program always
  *   results in 1.647999e+100).

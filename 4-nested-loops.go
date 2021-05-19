@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is 10 multiplied by itself 10x10 times.
+ *
+ * Primary takeaways:
  *
  * - Loops can be nested.
  * - You can use the same variable name in nested loops, and compiler

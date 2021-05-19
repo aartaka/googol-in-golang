@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is 10 multiplied by itself 100 times.
+ *
+ * Primary takeaways:
  *
  * - Go's loop is quite the same as in C, but absence of parentheses
  *   makes it look less structured. Easy to get lost.

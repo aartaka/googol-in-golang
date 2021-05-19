@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is a float64 constant.
+ *
+ * Primary takeaways:
  *
  * - It's hard to provide Googol constant -- it's too big for anything
  *   except float64.

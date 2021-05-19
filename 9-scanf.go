@@ -1,6 +1,8 @@
 package main
 
-/* Primary takeaways:
+/* Googol is a number read from the string containing Googol.
+ *
+ * Primary takeaways:
  *
  * - Go's fmt.Scanf is much like C's scanf.
  * - Scanning to float64 is possible with %f and %g (I only expected
