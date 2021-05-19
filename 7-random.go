@@ -9,9 +9,8 @@ import (
 func main() {
 	googol := 1.0
 	for googol < 1.000000e+100 {
-		multiplier := math.Abs(rand.ExpFloat64())
-		if multiplier > 1 {
-			googol *= multiplier
+		if tmp := math.Abs(rand.ExpFloat64()); tmp > 1 {
+			googol *= tmp
 		}
 	}
 	fmt.Printf("%e\n", googol)
