@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var googol float64 = 1
+	googol := 1.0
 	for googol < 1.000000e+100 {
 		googol *= 10
 	}

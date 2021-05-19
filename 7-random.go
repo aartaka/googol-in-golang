@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	var googol float64 = 1
+	googol := 1.0
 	for googol < 1.000000e+100 {
 		multiplier := math.Abs(rand.ExpFloat64())
 		if multiplier > 1 {
