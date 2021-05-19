@@ -9,6 +9,8 @@ package main
  * - The compound version of conditional (`if init; cond { body}`)
  *   comes in handy, but only if initialization is short. Otherwise,
  *   semicolon gets lost and it puts more burden on your brain.
+ * - Half (or more) of uniformly distributed random floats are below 1
+ *   in their absolute value.
  */
 
 import (
