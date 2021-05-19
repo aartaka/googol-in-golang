@@ -1,5 +1,16 @@
 package main
 
+/* Primary takeaways:
+ *
+ * - Random numbers are deterministic in Go (this program always
+ *   results in 1.647999e+100).
+ * - The choice between exponential, normal, and logarithmic
+ *   distribution is a hard one :D
+ * - The compound version of conditional (`if init; cond { body}`)
+ *   comes in handy, but only if initialization is short. Otherwise,
+ *   semicolon gets lost and it puts more burden on your brain.
+ */
+
 import (
 	"fmt"
 	"math/rand"

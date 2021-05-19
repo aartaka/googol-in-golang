@@ -1,5 +1,15 @@
 package main
 
+/* Primary takeaways:
+ *
+ * - Go's loop is quite the same as in C, but absence of parentheses
+ *   makes it look less structured. Easy to get lost.
+ * - Increment operator (++) work in loops (I heard it's quite restricted).
+ * - You always need to use brackets for loop body. Meh...
+ * - If you initialize the number with a float literal, then it will
+ *   be float64 (or at least it was the case in this snippet).
+ */
+
 import "fmt"
 
 func main() {

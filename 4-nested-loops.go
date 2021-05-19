@@ -1,5 +1,12 @@
 package main
 
+/* Primary takeaways:
+ *
+ * - Loops can be nested.
+ * - You can use the same variable name in nested loops, and compiler
+ *   with distinguish between two variables and rely on local scope.
+ */
+
 import "fmt"
 
 func main() {
