@@ -1,6 +1,17 @@
 #+TITLE:Googol in Golang
 
-Googol is 10 to the power of 100. This is a huge number. More so,
-it's one that is interesting to get to when you practice new
-programming language. This is my way to learn Go, one feature at a
-time, with the task always staying the same -- get Googol in the end!
+Googol is 10 to the power of 100. This is
+- A huge number.
+- It's one that is interesting to get with any calculator
+  - especially with the ones called programming languages!
+- It also sounds like the name of the company that supported Go
+  creation, and that's fun.
+
+This repo is my way to learn Go, one feature at a time, with the task
+always staying the same -- get Googol in the end! Some tasks are
+repetitive, but all of them bring new bits of knowledge to me (see
+"Primary takeaways" comment in every file to know what these bits
+are).
+
+Files are numbered and (mostly) named after the main features
+involved, so you can trace my way and the order I learned things in.
