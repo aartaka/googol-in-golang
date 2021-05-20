@@ -3,7 +3,7 @@ package main
 /* Googol is a big.Int having an exact value of 10^100.
  *
  * Primary takeaways:
- * 
+ *
  * - Arbitrary precision integers/floats/rationals (!) are
  *   built-in. The library is math/big.
  * - Int initialization happens with int64, so we cannot put Googol
